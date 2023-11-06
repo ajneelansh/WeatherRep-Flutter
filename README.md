@@ -1,6 +1,7 @@
 # weather_rep
 
-A new Flutter project.
+This a weather report application which provides realtime weather report.
+It has animation as per weather conditions and more cool features and animations.
 
 ## Getting Started
 
