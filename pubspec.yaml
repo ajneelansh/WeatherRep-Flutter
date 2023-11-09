@@ -1,6 +1,5 @@
 name: weather_rep
 description: A new Flutter project.
-# The following line prevents the package from being accidentally published t
 publish_to: 'none' 
 
 # The following defines the version and build number for your application.
